@@ -19,7 +19,7 @@ Você pode [acessar o código fonte do projeto inicial](https://github.com/MykeS
 
 ## 🛠️ Abrir e rodar o projeto
 
-Após baixar o projeto, você pode abrir com o VSCode. Para isso, clique em:
+Após baixar o projeto, você pode abrir com o [VSCode](https://code.visualstudio.com/). Para isso, clique em:
 
 - **Abrir pasta...** (Ctrl K Ctrl O)
 - Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
