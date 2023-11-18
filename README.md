@@ -2,6 +2,8 @@
 
 Página de apresentação feita na Alura com Home, Sobre mim e Currículo.
 
+![home_portfolio](https://github.com/MykeStan/alura-projeto_portifolio/assets/127412518/18e46b3f-b2e2-475e-a59a-df6505cc98f4)
+
 ##   ⚙️ Técnicas e tecnologias utilizadas
 
 As técnicas e tecnologias utilizadas para a página foram:
